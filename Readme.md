@@ -6,7 +6,9 @@ This project was created using Vite- React template Link here : https://vitejs.d
 yarn create vite portfolio-animation
 
 Gsap javascript animaion library. Link here :https://greensock.com/gsap/
+
 yarn install
+
 yarn add gsap
 
 All dependencies were installed using Yarn package manager.
